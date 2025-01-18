@@ -26,6 +26,7 @@
 ###
 
 <div align="left">
+  <h1>🧑‍💻profile:</h1>
   <a href="https://www.linkedin.com/in/sridharan30/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -33,6 +34,7 @@
 
 ###
 <div id="top-langs">
+  <h1>📊 Top Lang:</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridharan-prof&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
