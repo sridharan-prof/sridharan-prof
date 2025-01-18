@@ -32,6 +32,20 @@
 </div>
 
 ###
+<div id="top-langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridharan-prof&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/ocean.gif" />
+</picture>
+
+###
+
 <div id="github-trophies">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=sridharan-prof&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
@@ -44,8 +58,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/ocean.gif" />
-</picture>
