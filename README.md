@@ -32,7 +32,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/ocean.gif" />
 </picture>
