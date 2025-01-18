@@ -48,13 +48,6 @@
 
 ###
 
-<div id="github-trophies">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=sridharan-prof&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
-###
-
 <div id="random-dev-quote">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
