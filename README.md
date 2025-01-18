@@ -26,9 +26,6 @@
 ###
 
 <div align="left">
-  <a href="sridharan.prof@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/sridharan30/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -46,7 +43,6 @@
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sridharan-prof/sridharan-prof/blob/db7eaf452ca008d6a13fcb8c15069984fc502038/github-snake-dark.svg" />
